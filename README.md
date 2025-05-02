@@ -15,8 +15,6 @@
 <p align="left">
 🎓 ADMINISTRADOR DE EMPRESAS
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
 💻 unos cuántos años experiencia variada en prácticas desempeñando funciones de gestión, análisis y soporte tecnológico.
 
 📝 roles en el ámbito: logístico... tecnológico... administrativo... colaborador... emprendedor... freelance.
