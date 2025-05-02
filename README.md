@@ -15,7 +15,7 @@
 <p align="left">
 🎓 ADMINISTRADOR DE EMPRESAS
 
-💻 unos cuántos años experiencia variada en prácticas desempeñando funciones de gestión, análisis y soporte tecnológico.
+💻 Con unos cuántos años experiencia variada en prácticas desempeñando funciones de gestión, análisis y soporte tecnológico.
 
 📝 roles en el ámbito: logístico... tecnológico... administrativo... colaborador... emprendedor... freelance.
 
