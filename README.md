@@ -17,7 +17,7 @@
 
 💻 Con unos cuántos años experiencia variada en prácticas desempeñando funciones de gestión, análisis y soporte tecnológico.
 
-📝 roles en el ámbito: logístico... tecnológico... administrativo... colaborador... emprendedor... freelance.
+📝 roles en el ámbito: logístico... tecnológico... administrativo... colaborador... analista de datos... freelance.
 
 📫 Contacto: **chris_alex_94@hotmail.com**
 <!--Intro end-->
