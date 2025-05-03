@@ -17,7 +17,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-Soy egresado de Administración de Empresas con interés en la tecnología, el análisis de datos y la mejora de procesos. Me considero una persona proactiva, curiosa y colaborativa, actualmente buscando crecer profesionalmente mediante prácticas preprofesionales.
+Bachiller en **Administración de Empresas** con interés en la tecnología, el análisis de datos y la mejora de procesos.
 
 🔍 Experiencia y roles a nivel practicante:
 
