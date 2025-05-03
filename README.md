@@ -36,7 +36,7 @@ Bachiller en **Administración de Empresas** con interés en la tecnología, el 
 - Power BI (intermedio)  
 - Python (básico)  
 - GitHub & Visual Studio Code
-- Google Workspace  
+- Microsoft Office & Google Workspace 
 - Herramientas de automatización básica  
 
 ---
