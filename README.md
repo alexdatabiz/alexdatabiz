@@ -43,9 +43,13 @@ Bachiller en **Administración de Empresas** con interés en la tecnología, el 
 
 ## 📁 Portafolio de proyectos
 
-- 📈 [Análisis de ventas de supermercado](#)  
-- 📊 [Dashboard de indicadores logísticos](#)  
-- 📉 [Automatización de reportes con Excel y Power BI](#)
+- 📘 [Excel - Análisis Estadístico](https://github.com/alexdatabiz/Portafolio-Data-Analysis/tree/main/Excel%20-%20An%C3%A1lisis%20Estad%C3%ADstico)  
+- 📗 [Excel - Análisis de Datos](https://github.com/alexdatabiz/Portafolio-Data-Analysis/tree/main/Excel%20-%20An%C3%A1lisis%20de%20Datos)  
+- 📙 [Excel - Base de datos](https://github.com/alexdatabiz/Portafolio-Data-Analysis/tree/main/Excel%20-%20Base%20de%20datos)  
+- 📒 [Excel - TB y Dashboard](https://github.com/alexdatabiz/Portafolio-Data-Analysis/tree/main/Excel%20-%20TB%20y%20Dashboard)  
+- 📓 [Excel Completo](https://github.com/alexdatabiz/Portafolio-Data-Analysis/tree/main/Excel%20Completo)  
+- 📊 [Power BI - Análisis de Datos](https://github.com/alexdatabiz/Portafolio-Data-Analysis/tree/main/Power%20BI%20-%20An%C3%A1lisis%20de%20Datos)  
+- 🐍 [Python - Análisis de Datos](https://github.com/alexdatabiz/Portafolio-Data-Analysis/tree/main/Python%20-%20An%C3%A1lisis%20de%20Datos)
 
 ---
 
