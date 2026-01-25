@@ -23,7 +23,7 @@ Bachiller en **Administración de Empresas** con interés en la tecnología, el 
 
 - 👨‍💼 **Administrativos** (auxiliar, gestión de kardex, codificación de productos)  
 - 🚚 **Logísticos** (control de inventarios y soporte operativo)  
-- 🧑‍💻 **Tecnológicos** (uso de sistemas, herramientas digitales y automatización básica)  
+- 🧑‍💻 **Tecnológicos** (uso de sistemas, TI, herramientas digitales y automatización básica)  
 - 📊 **Analista de Datos** (manejo de Excel avanzado, Power BI intermedio)  
 - 🤝 **Colaborador** (trabajo en equipo, soporte al cliente)  
 - 🧑‍🎨 **Freelance** (proyectos personales de análisis y visualización)  
