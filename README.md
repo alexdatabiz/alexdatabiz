@@ -17,7 +17,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-Bachiller en **Administración de Empresas** con interés en la tecnología, el análisis de datos y la mejora de procesos.
+Bachiller en **Administración de Empresas** enfocado en la tecnología, el análisis de datos y la mejora de procesos.
 
 🔍 Experiencia y roles a nivel practicante:
 
