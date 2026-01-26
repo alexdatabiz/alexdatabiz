@@ -33,7 +33,7 @@ Bachiller en **Administración de Empresas** enfocado en la tecnología, el aná
 ## 🛠️ Tecnologías y herramientas
 
 - Excel (avanzado)  
-- Power BI (intermedio)  
+- Power BI (básico)  
 - Python (básico)  
 - GitHub & Visual Studio Code
 - Microsoft Office
