@@ -17,16 +17,16 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-Bachiller en **Administración de Empresas** enfocado en la tecnología, el análisis de datos y la mejora de procesos.
+Bachiller en **Administración de Empresas** enfocado en la tecnología, el análisis de datos y gestión de sistemas.
 
 🔍 Experiencia y roles a nivel practicante:
 
 - 👨‍💼 **Administrativos** (auxiliar, gestión de kardex, codificación de productos)  
 - 🚚 **Logísticos** (control de inventarios y soporte operativo)  
 - 🧑‍💻 **Tecnológicos** (uso de sistemas, TI, herramientas digitales y automatización básica)  
-- 📊 **Analista de Datos** (manejo de Excel avanzado, Power BI intermedio)  
+- 📊 **Analista de Datos** (manejo de Excel avanzado, Power BI básico)  
 - 🤝 **Colaborador** (trabajo en equipo, soporte al cliente)  
-- 🧑‍🎨 **Freelance** (proyectos personales de análisis y visualización)  
+- 🧑‍🎨 **Freelance** (proyectos personales de análisis y visualización de datos)  
 
 ---
 
